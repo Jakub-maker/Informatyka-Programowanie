@@ -6,9 +6,9 @@ int main() {
 	char pojedynczyznak = 'A';
 	bool wartosclogiczna = true;
 	
-	cout << "Typ int: " << liczbacalkowita << endl;
-	cout << "Typ float: " << liczba_zmiennoprzecinkowa << endl;
-	cout << "Typ char: " << pojedynczyznak << endl;
-	cout << "Typ bool: " << wartosclogiczna << endl;
+	cout << "Zmienna calkowita: " << liczbacalkowita << endl;
+	cout << "Zmienna zmiennoprzecinkowa: " << liczba_zmiennoprzecinkowa << endl;
+	cout << "Zmienna znakowa: " << pojedynczyznak << endl;
+	cout << "Zmienna logiczna: " << wartosclogiczna << endl;
 	
 }
